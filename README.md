@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prabhat Kumar Suman
-- 💻 currently, I'm a android developer.
+- 💻 currently, I'm working as a android developer.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning Data Structure And Algorithm
 - 💞️ I’m looking to collaborate on android developement with java as well as kotlin.
